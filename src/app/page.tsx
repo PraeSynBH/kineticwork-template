@@ -67,7 +67,7 @@ export default function Home() {
             </p>
             <div className="flex flex-wrap items-center justify-center gap-4">
               <Link
-                href="https://github.com/PraeSyn/kineticwork-template"
+                href="https://github.com/PraeSynBH/kineticwork-template"
                 className={buttonVariants({ size: "lg" })}
               >
                 View on GitHub
@@ -160,7 +160,7 @@ export default function Home() {
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <Link
-                href="https://github.com/PraeSyn/kineticwork-template"
+                href="https://github.com/PraeSynBH/kineticwork-template"
                 className={buttonVariants({ size: "lg", variant: "secondary" })}
               >
                 Get started

@@ -4,7 +4,7 @@ A production-ready [Next.js](https://nextjs.org) starter template for building w
 
 ```bash
 # Clone and start building in seconds
-git clone https://github.com/PraeSyn/kineticwork-template.git my-app
+git clone https://github.com/PraeSynBH/kineticwork-template.git my-app
 cd my-app
 pnpm install
 pnpm dev
@@ -72,7 +72,7 @@ prisma/
 1. Clone and install:
 
 ```bash
-git clone https://github.com/PraeSyn/kineticwork-template.git my-app
+git clone https://github.com/PraeSynBH/kineticwork-template.git my-app
 cd my-app
 pnpm install
 ```
